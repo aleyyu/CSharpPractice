@@ -19,7 +19,6 @@ namespace InitialAtEnd
         static string putInitialAtEnd(string text)
         {
             int length = text.Length;
-            //string newText = text.Insert(length + 1, text.Substring(1));
             string newText = text.Substring(1) + text[0];
             return newText;
         }
