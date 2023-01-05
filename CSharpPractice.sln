@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InitialAtEnd", "InitialAtEn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalculation", "AreaCalculation\AreaCalculation.csproj", "{52B2AB96-894B-4CC9-B424-E29BB46B08AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerDuos", "IntegerDuos\IntegerDuos.csproj", "{3FD7D9C7-780A-4F68-8C18-BC8D20C53469}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{52B2AB96-894B-4CC9-B424-E29BB46B08AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52B2AB96-894B-4CC9-B424-E29BB46B08AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52B2AB96-894B-4CC9-B424-E29BB46B08AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FD7D9C7-780A-4F68-8C18-BC8D20C53469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD7D9C7-780A-4F68-8C18-BC8D20C53469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD7D9C7-780A-4F68-8C18-BC8D20C53469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD7D9C7-780A-4F68-8C18-BC8D20C53469}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
