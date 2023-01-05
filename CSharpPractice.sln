@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawCircle", "DrawCircle\Dr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteChar", "DeleteChar\DeleteChar.csproj", "{CB79B68B-942A-4706-8023-A054F4D33BDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InitialAtEnd", "InitialAtEnd\InitialAtEnd.csproj", "{82930643-538F-4667-BC94-164CA69B30ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{CB79B68B-942A-4706-8023-A054F4D33BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB79B68B-942A-4706-8023-A054F4D33BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB79B68B-942A-4706-8023-A054F4D33BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82930643-538F-4667-BC94-164CA69B30ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82930643-538F-4667-BC94-164CA69B30ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82930643-538F-4667-BC94-164CA69B30ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82930643-538F-4667-BC94-164CA69B30ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
